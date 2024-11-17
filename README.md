@@ -72,3 +72,47 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 # quizManagement
+
+# Quiz Management System Setup
+
+This guide provides instructions on how to set up and run the **Quiz Management System** project.
+
+---
+
+## Prerequisites
+
+Before starting, make sure you have the following installed on your system:
+
+- **Node.js** (version 18 or higher)
+- **npm** (Node package manager)
+- **Git**
+
+---
+
+## 1. Clone the Repository
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/danishsharma1806/quizManagement.git
+
+---
+
+## 2. Install Dependency
+
+  cd quizManagement
+  npm install
+
+## 3. Set Up Environment Variables
+
+## 4. Running the Application
+
+  npm run start
+
+## 5. Accessing the Application
+  
+  http://localhost:3000
+
+### File Name: `README.md`
+
+This file should now provide a concise set of instructions for setting up the **Quiz Management System**.
