@@ -111,7 +111,7 @@ git clone https://github.com/danishsharma1806/quizManagement.git
 
 ## 5. Accessing the Application
   
-  http://localhost:3000
+  http://localhost:7700
 
 ### File Name: `README.md`
 
