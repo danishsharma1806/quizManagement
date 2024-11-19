@@ -60,7 +60,6 @@ The application is built using **NestJS** (a Node.js framework) and utilizes **T
 - Support multiple-choice answers with one correct answer per question.
 - Submit answers and get instant feedback.
 - Track and display user scores after submitting the quiz.
-- Designed with both **admin** and **user** roles for managing and taking quizzes.
 
 ---
 
